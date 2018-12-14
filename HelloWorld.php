@@ -1,4 +1,3 @@
 <?php
-//Prints HelloWorld
-echo "HelloWorld!";
+echo "HelloWorld";
 ?>
